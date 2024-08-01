@@ -4,4 +4,5 @@ bear-bros-landing-page/
 ├── css/
 │   └── styles.css
 └── images/
-    └── cleaning-service.jpg (if you have a specific image to use)
+    ├── cleaning-service.jpg (optional if you have any specific image)
+    └── logo.png
