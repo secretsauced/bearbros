@@ -1,0 +1,7 @@
+bear-bros-landing-page/
+│
+├── index.html
+├── css/
+│   └── styles.css
+└── images/
+    └── cleaning-service.jpg (if you have a specific image to use)
